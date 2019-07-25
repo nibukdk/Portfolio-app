@@ -28,7 +28,7 @@ class Main extends Component {
   render() {
     return (
       <Container>
-        <Row className="justify-content-md-center">
+        <Row className="">
           <Col lg={12} style={{ marginBottom: "100px" }}>
             <Header />
           </Col>
